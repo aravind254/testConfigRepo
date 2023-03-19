@@ -8,7 +8,7 @@ metadata:
 spec:
   sourceFormat: unstructured
   git:
-    repo: github.com/aravind254/testConfigRepo.git
+    repo: https://github.com/aravind254/testConfigRepo.git
     dir: /root
     branch: main
     auth: none
