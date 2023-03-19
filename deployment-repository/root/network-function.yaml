@@ -16,7 +16,7 @@ metadata:
 spec:
   sourceFormat: unstructured
   git:
-    repo: github.com/aravind254/testConfigSync.git
+    repo: github.com/aravind254/testConfigRepo.git
     dir: /namespaces/network-function
     branch: main
     auth: none
