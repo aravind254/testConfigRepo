@@ -17,7 +17,7 @@ spec:
   sourceFormat: unstructured
   git:
     repo: github.com/aravind254/testConfigRepo.git
-    dir: /deployment-repository/namespaces/network-function
+    dir: /namespaces/network-function
     branch: main
     auth: none
 
