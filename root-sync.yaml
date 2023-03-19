@@ -9,6 +9,6 @@ spec:
   sourceFormat: unstructured
   git:
     repo: github.com/aravind254/testConfigRepo.git
-    dir: /root
+    dir: /deployment-repository/root
     branch: main
     auth: none
